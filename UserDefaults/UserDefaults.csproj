@@ -10,6 +10,7 @@
     <PackageReleaseNotes>First Release.</PackageReleaseNotes>
     <PackageTags>UserDefault, Key Value, Storage, File</PackageTags>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageProjectUrl>https://github.com/JafarH96/UserDefaults</PackageProjectUrl>
   </PropertyGroup>
 
 </Project>
