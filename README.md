@@ -23,4 +23,7 @@ object value = UserDefault.standard.GetObject(key: "MyKey3");
 
 **Warning**: Be careful that the keys used are unique, otherwise the data will be replaced.
 
-### Caution: Data is stored as a file without any security.
+### Caution
+```diff
+- Data is stored as a file without any security.
+```
