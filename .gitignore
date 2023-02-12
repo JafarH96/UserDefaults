@@ -1,0 +1,8 @@
+*obj
+*bin
+*.vs
+*.nugpkg
+
+UserDefaults/*.exe
+TestUserDefaults/*.exe
+packages
