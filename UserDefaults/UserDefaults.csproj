@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+    <PackageId>com.JafarH.UserDefaults</PackageId>
+    <Authors>JafarH96</Authors>
+    <Company>JafarH</Company>
+    <Description>Implementation of user defaults similar to Swift. Data are stored as key-value in a file in the application execution path.</Description>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageReleaseNotes>First Release.</PackageReleaseNotes>
+    <PackageTags>UserDefault, Key Value, Storage, File</PackageTags>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+  </PropertyGroup>
+
+</Project>
